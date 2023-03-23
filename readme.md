@@ -109,7 +109,7 @@ As prioridades foram definidas da seguinte forma:
  
  Exemplificando e completando toda a lógica apresentada acima, demonstrarei através de um .gif, o caminho  a ser percorrido.
 
-<img  src = "../CaminhoGuloso/img/24.gif" width = 500 >
+<img  src = "img/24.gif" width = 500 >
 
 
  A matriz apresentada é uma matriz 3x4, apenas um exemplo.
@@ -177,13 +177,13 @@ Executando o algoritmo,  informamos o valor de <strong>i e j.</strong>
 
 Após inserir os valores temos a seguinte matriz gerada:
  </p>
-<img src = "../CaminhoGuloso/img/1.png" width = 500>
+<img src = "img/1.png" width = 500>
 
 <p align=justify> </p>
 
 Testando mais uma das condições solicitadas, ao percorrer a matriz até sua última linha, ele continua para a direita até que o arquivo seja completamente percorrido. Em seguida, as matrizes são exibidas, evidenciando o caminho percorrido com a marcação <strong>'-1'</strong> e a soma total de todo o trajeto é printado na tela contendo todas as coordenadas e decisões do algoritmo.
 
-<img src = "../CaminhoGuloso/img/2.png" width = 500>
+<img src = "img/2.png" width = 500>
 
 ---
 ---
