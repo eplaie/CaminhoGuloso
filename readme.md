@@ -10,6 +10,7 @@
 
 <p align=justify> 
 <strong>
+
 - [X] 1.  Criar um sistema que leia K matrizes quadradas no tamanho NxN.
 
 - [X] 2.  Seu programa deve enumerá-las, de forma a deixa-las organizadas para processamento. 
